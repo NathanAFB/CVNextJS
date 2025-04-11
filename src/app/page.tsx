@@ -22,8 +22,8 @@ export default function CV() {
         <div className="mt-4 border-t pt-4">
           <h2 className="text-2xl font-semibold">À propos</h2>
           <p className="text-blue-900 text-md">
-            Jeune développeur en première année d'étude supérieure. 
-            Je suis passionné de jeux et j'ai une culture ludique étendue.
+            Jeune développeur en première année d&apos;étude supérieure. 
+            Je suis passionné de jeux et j&apos;ai une culture ludique étendue.
             Je suis également bilingue anglais après avoir vécu trois ans aux États-Unis.
           </p>
         </div>
@@ -43,7 +43,7 @@ export default function CV() {
         <div className="mt-4 border-t pt-4">
           <h2 className="text-2xl font-semibold">Formation</h2>
           <ul className="list-disc list-inside text-blue-900 text-md mt-2">
-            <li><strong>Bachelor Informatique</strong> - Ecole d'informatique ENIGMA (2024 - aujourd'hui)</li>
+            <li><strong>Bachelor Informatique</strong> - Ecole d&apos;informatique ENIGMA (2024 - aujourd&apos;hui)</li>
             <li><strong>Bac Général Math-NSI mention BIEN</strong> - Lycée de Gondecourt (2021 - 2024)</li>
           </ul>
         </div>
